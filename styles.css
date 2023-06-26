@@ -1,5 +1,6 @@
 body {
-    margin: auto;
+    margin: 0px;
+    padding: 0px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -37,7 +38,7 @@ li {
     margin: 1rem 1rem 1rem 2rem;
 }
 
-#navbar, #hero{
+#navbar, #hero, #footer{
     background-color: #1F2937;
 }
 
@@ -89,4 +90,50 @@ button  {
     font-weight: light;
     font-style: italic;
     color: #1F2937;
+}
+
+#cta {
+    padding: 5rem 20rem 5rem 20rem;
+    /* text-align: center; */
+}
+
+/* CTA */
+.row-cta {
+    display: flex;
+    justify-content: center;
+}
+.column-cta {
+    flex: 50%;
+}
+
+.cta-box {
+    padding: 2rem 0 2rem 5rem;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 0.5rem;
+}
+
+.cta-button  {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 0.5rem;
+    border-color: white;
+    padding: 0.5rem 2rem;
+    margin-left: 25rem;
+    margin-top: 2.5rem;
+}
+
+/* Footer */
+#footer {
+    /* margin-top: 5rem; */
+    margin-bottom: 0px;
+    background-color: #1F2937;
+}
+
+.footer-text {
+    /* background-color: #1F2937; */
+    color: #f9faf8;
+    text-align: center;
+    padding: 1rem 0;
+    
 }
