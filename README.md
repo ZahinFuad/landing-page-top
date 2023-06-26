@@ -6,3 +6,6 @@ It is an assignment from the Foundations Course in "The Odin Project"
 
 ## Links
 - [The Assignment](https://www.theodinproject.com/lessons/foundations-landing-page) 
+
+## Screenshot
+![](https://github.com/ZahinFuad/landing-page-top/blob/main/screenshot-landing-page.png)
